@@ -1,0 +1,451 @@
+.stl_ sup {
+	vertical-align: baseline;
+	position: relative;
+	top: -0.4em;
+}
+.stl_ sub {
+	vertical-align: baseline;
+	position: relative;
+	top: 0.4em;
+}
+.stl_ a:link {text-decoration:none;}
+.stl_ a:visited {text-decoration:none;}
+@media screen and (min-device-pixel-ratio:0), (-webkit-min-device-pixel-ratio:0), (min--moz-device-pixel-ratio: 0) {.stl_view{ font-size:10em; transform:scale(0.1); -moz-transform:scale(0.1); -webkit-transform:scale(0.1); -moz-transform-origin:top left; -webkit-transform-origin:top left; } }
+.stl_layer { }.stl_ie { font-size: 1pt; }
+.stl_ie body { font-size: 12em; }
+@media print{.stl_view {font-size:1em; transform:scale(1);}}
+.stl_grlink { position:relative;width:100%;height:100%;z-index:1000000; }
+.stl_01 {
+	position: absolute;
+	white-space: nowrap;
+}
+.stl_02 {
+	font-size: 1em;
+	line-height: 0.0em;
+	width: 49.58333em;
+	height: 70.08334em;
+	border-style: none;
+	display: block;
+	margin: 0em;
+}
+
+@supports(-ms-ime-align:auto) { .stl_02 {overflow: hidden;}}
+.stl_03 {
+	position: relative;
+}
+.stl_04 {
+	position: absolute;
+	left: 0em;
+	top: 0em;
+}
+.stl_05 {
+	position: relative;
+	width: 49.58333em;
+}
+.stl_06 {
+	height: 7.008333em;
+}
+.stl_ie .stl_06 {
+	height: 70.08334em;
+}
+@font-face {
+	font-family:"HNIGUV+URWPalladioL-Bold";
+	src:url("d633f08a-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_07 {
+	font-size: 2.065592em;
+	font-family: "HNIGUV+URWPalladioL-Bold", "Times New Roman";
+	color: #000000;
+}
+.stl_08 {
+	line-height: 1.236em;
+}
+.stl_09 {
+	letter-spacing: 0em;
+}
+
+.stl_ie .stl_09 {
+	letter-spacing: 0px;
+}
+@font-face {
+	font-family:"BFFGSG+URWPalladioL-Roma";
+	src:url("52707a0f-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_10 {
+	font-size: 0.830217em;
+	font-family: "BFFGSG+URWPalladioL-Roma", "Times New Roman";
+	color: #000000;
+}
+.stl_11 {
+	line-height: 1.226em;
+}
+.stl_12 {
+	font-size: 0.830217em;
+	font-family: "BFFGSG+URWPalladioL-Roma", "Times New Roman";
+	color: #00008B;
+}
+@font-face {
+	font-family:"CAIGSE+FontAwesome5Brands-Regular";
+	src:url("92c48ed5-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_13 {
+	font-size: 0.974483em;
+	font-family: "CAIGSE+FontAwesome5Brands-Regular", "Times New Roman";
+	color: #000000;
+}
+.stl_14 {
+	line-height: 1.007em;
+}
+.stl_15 {
+	font-size: 0.996267em;
+	font-family: "HNIGUV+URWPalladioL-Bold", "Times New Roman";
+	color: #000000;
+}
+.stl_16 {
+	letter-spacing: 0.05em;
+}
+
+.stl_ie .stl_16 {
+	letter-spacing: 0.7965px;
+}
+.stl_17 {
+	font-size: 0.797008em;
+	font-family: "HNIGUV+URWPalladioL-Bold", "Times New Roman";
+	color: #000000;
+}
+.stl_18 {
+	letter-spacing: 0.062em;
+}
+
+.stl_ie .stl_18 {
+	letter-spacing: 0.7906px;
+}
+.stl_19 {
+	letter-spacing: -0.03em;
+}
+
+.stl_ie .stl_19 {
+	letter-spacing: -0.3826px;
+}
+@font-face {
+	font-family:"HATPAF+LMMathSymbols6-Regular";
+	src:url("3be4a463-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_20 {
+	font-size: 0.498133em;
+	font-family: "HATPAF+LMMathSymbols6-Regular", "Times New Roman";
+	color: #000000;
+}
+.stl_21 {
+	line-height: 1.734em;
+}
+.stl_22 {
+	font-size: 0.909092em;
+	font-family: "HNIGUV+URWPalladioL-Bold", "Times New Roman";
+	color: #000000;
+}
+.stl_23 {
+	letter-spacing: -0.111em;
+}
+
+.stl_ie .stl_23 {
+	letter-spacing: -1.6145px;
+}
+@font-face {
+	font-family:"AOMBCR+URWPalladioL-Ital";
+	src:url("6a3c9750-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_24 {
+	font-size: 0.7472em;
+	font-family: "AOMBCR+URWPalladioL-Ital", "Times New Roman";
+	color: #000000;
+}
+.stl_25 {
+	line-height: 1.246em;
+}
+.stl_26 {
+	letter-spacing: -0.0016em;
+}
+
+.stl_ie .stl_26 {
+	letter-spacing: -0.0196px;
+}
+.stl_27 {
+	letter-spacing: -0.0008em;
+}
+
+.stl_ie .stl_27 {
+	letter-spacing: -0.009px;
+}
+.stl_28 {
+	font-size: 0.7472em;
+	font-family: "BFFGSG+URWPalladioL-Roma", "Times New Roman";
+	color: #000000;
+}
+.stl_29 {
+	font-size: 0.909092em;
+	font-family: "BFFGSG+URWPalladioL-Roma", "Times New Roman";
+	color: #000000;
+}
+.stl_30 {
+	letter-spacing: -0.092em;
+}
+
+.stl_ie .stl_30 {
+	letter-spacing: -1.3382px;
+}
+.stl_31 {
+	letter-spacing: -0.0011em;
+}
+
+.stl_ie .stl_31 {
+	letter-spacing: -0.0154px;
+}
+.stl_32 {
+	letter-spacing: -0.0003em;
+}
+
+.stl_ie .stl_32 {
+	letter-spacing: -0.0041px;
+}
+.stl_33 {
+	letter-spacing: -0.0004em;
+}
+
+.stl_ie .stl_33 {
+	letter-spacing: -0.0052px;
+}
+.stl_34 {
+	letter-spacing: 0.0617em;
+}
+
+.stl_ie .stl_34 {
+	letter-spacing: 0.7864px;
+}
+.stl_35 {
+	letter-spacing: 0.0501em;
+}
+
+.stl_ie .stl_35 {
+	letter-spacing: 0.7978px;
+}
+.stl_36 {
+	letter-spacing: 0.0618em;
+}
+
+.stl_ie .stl_36 {
+	letter-spacing: 0.7874px;
+}
+.stl_37 {
+	font-size: 0.909092em;
+	font-family: "HNIGUV+URWPalladioL-Bold", "Times New Roman";
+	color: #00008B;
+}
+.stl_38 {
+	letter-spacing: -0.0062em;
+}
+
+.stl_ie .stl_38 {
+	letter-spacing: -0.0897px;
+}
+.stl_39 {
+	letter-spacing: -0.0009em;
+}
+
+.stl_ie .stl_39 {
+	letter-spacing: -0.011px;
+}
+.stl_40 {
+	font-size: 0.7472em;
+	font-family: "CAIGSE+FontAwesome5Brands-Regular", "Times New Roman";
+	color: #00008B;
+}
+.stl_41 {
+	letter-spacing: -0.0001em;
+}
+
+.stl_ie .stl_41 {
+	letter-spacing: -0.0006px;
+}
+.stl_42 {
+	letter-spacing: -0.0019em;
+}
+
+.stl_ie .stl_42 {
+	letter-spacing: -0.0283px;
+}
+.stl_43 {
+	letter-spacing: -0.0007em;
+}
+
+.stl_ie .stl_43 {
+	letter-spacing: -0.0083px;
+}
+.stl_44 {
+	letter-spacing: -0.0005em;
+}
+
+.stl_ie .stl_44 {
+	letter-spacing: -0.0079px;
+}
+.stl_45 {
+	letter-spacing: -0.0041em;
+}
+
+.stl_ie .stl_45 {
+	letter-spacing: -0.059px;
+}
+.stl_46 {
+	letter-spacing: 0.0528em;
+}
+
+.stl_ie .stl_46 {
+	letter-spacing: 0.6733px;
+}
+.stl_47 {
+	letter-spacing: 0.0499em;
+}
+
+.stl_ie .stl_47 {
+	letter-spacing: 0.7962px;
+}
+.stl_48 {
+	font-size: 0.664175em;
+	font-family: "BFFGSG+URWPalladioL-Roma", "Times New Roman";
+	color: #00008B;
+}
+.stl_49 {
+	font-size: 0.531342em;
+	font-family: "BFFGSG+URWPalladioL-Roma", "Times New Roman";
+	color: #00008B;
+}
+.stl_50 {
+	letter-spacing: 0.0616em;
+}
+
+.stl_ie .stl_50 {
+	letter-spacing: 0.5238px;
+}
+.stl_51 {
+	letter-spacing: 0.0453em;
+}
+
+.stl_ie .stl_51 {
+	letter-spacing: 0.3855px;
+}
+.stl_52 {
+	font-size: 0.830217em;
+	font-family: "HNIGUV+URWPalladioL-Bold", "Times New Roman";
+	color: #000000;
+}
+.stl_53 {
+	font-size: 0.830217em;
+	font-family: "HNIGUV+URWPalladioL-Bold", "Times New Roman";
+	color: #00008B;
+}
+.stl_54 {
+	font-size: 0.830217em;
+	font-family: "AOMBCR+URWPalladioL-Ital", "Times New Roman";
+	color: #000000;
+}
+.stl_55 {
+	letter-spacing: -0.0027em;
+}
+
+.stl_ie .stl_55 {
+	letter-spacing: -0.0364px;
+}
+@font-face {
+	font-family:"GBBNKK+LMMathSymbols7-Regular";
+	src:url("eb5ef573-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_56 {
+	font-size: 0.69738em;
+	font-family: "GBBNKK+LMMathSymbols7-Regular", "Times New Roman";
+	color: #000000;
+}
+.stl_57 {
+	line-height: 1.733em;
+}
+.stl_58 {
+	letter-spacing: 0.0717em;
+}
+
+.stl_ie .stl_58 {
+	letter-spacing: 0.6671px;
+}
+.stl_59 {
+	letter-spacing: -0.0213em;
+}
+
+.stl_ie .stl_59 {
+	letter-spacing: -0.2834px;
+}
+.stl_60 {
+	letter-spacing: -0.129em;
+}
+
+.stl_ie .stl_60 {
+	letter-spacing: -1.7136px;
+}
+.stl_61 {
+	letter-spacing: 0.1423em;
+}
+
+.stl_ie .stl_61 {
+	letter-spacing: 1.8896px;
+}
+.stl_62 {
+	letter-spacing: -0.0046em;
+}
+
+.stl_ie .stl_62 {
+	letter-spacing: -0.0614px;
+}
+.stl_63 {
+	letter-spacing: -0.0022em;
+}
+
+.stl_ie .stl_63 {
+	letter-spacing: -0.0298px;
+}
+.stl_64 {
+	letter-spacing: -0.031em;
+}
+
+.stl_ie .stl_64 {
+	letter-spacing: -0.4949px;
+}
+.stl_65 {
+	letter-spacing: 0.0395em;
+}
+
+.stl_ie .stl_65 {
+	letter-spacing: 0.5037px;
+}
+.stl_66 {
+	letter-spacing: -0.0069em;
+}
+
+.stl_ie .stl_66 {
+	letter-spacing: -0.0911px;
+}
+.stl_67 {
+	letter-spacing: -0.0014em;
+}
+
+.stl_ie .stl_67 {
+	letter-spacing: -0.0187px;
+}
+@font-face {
+	font-family:"IIFBMU+FontAwesome5Free-Solid";
+	src:url("5cbbaac0-0000-0000-0000-000000000000.woff") format("woff");
+}
+.stl_68 {
+	font-size: 0.7472em;
+	font-family: "IIFBMU+FontAwesome5Free-Solid", "Times New Roman";
+	color: #00008B;
+}
+.stl_69 {
+	line-height: 1.003em;
+}
