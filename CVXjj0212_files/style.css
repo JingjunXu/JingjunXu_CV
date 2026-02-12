@@ -49,12 +49,12 @@
 	height: 70.08334em;
 }
 @font-face {
-	font-family:"NBINMB+URWPalladioL-Bold";
-	src:url("6ecbfb17-0000-0000-0000-000000000000.woff") format("woff");
+	font-family:"JEDMLI+URWPalladioL-Bold";
+	src:url("2cd7c527-0000-0000-0000-000000000000.woff") format("woff");
 }
 .stl_07 {
 	font-size: 2.065592em;
-	font-family: "NBINMB+URWPalladioL-Bold", "Times New Roman";
+	font-family: "JEDMLI+URWPalladioL-Bold", "Times New Roman";
 	color: #000000;
 }
 .stl_08 {
@@ -68,12 +68,12 @@
 	letter-spacing: 0px;
 }
 @font-face {
-	font-family:"NGCSTP+URWPalladioL-Roma";
-	src:url("de494d7e-0000-0000-0000-000000000000.woff") format("woff");
+	font-family:"SENPGB+URWPalladioL-Roma";
+	src:url("1e0d7b0d-0000-0000-0000-000000000000.woff") format("woff");
 }
 .stl_10 {
 	font-size: 0.830217em;
-	font-family: "NGCSTP+URWPalladioL-Roma", "Times New Roman";
+	font-family: "SENPGB+URWPalladioL-Roma", "Times New Roman";
 	color: #000000;
 }
 .stl_11 {
@@ -81,16 +81,16 @@
 }
 .stl_12 {
 	font-size: 0.830217em;
-	font-family: "NGCSTP+URWPalladioL-Roma", "Times New Roman";
+	font-family: "SENPGB+URWPalladioL-Roma", "Times New Roman";
 	color: #00008B;
 }
 @font-face {
-	font-family:"VMEOIK+FontAwesome5Free-Solid";
-	src:url("743a06b8-0000-0000-0000-000000000000.woff") format("woff");
+	font-family:"USUCDF+FontAwesome5Free-Solid";
+	src:url("2d4f7513-0000-0000-0000-000000000000.woff") format("woff");
 }
 .stl_13 {
 	font-size: 0.830217em;
-	font-family: "VMEOIK+FontAwesome5Free-Solid", "Times New Roman";
+	font-family: "USUCDF+FontAwesome5Free-Solid", "Times New Roman";
 	color: #000000;
 }
 .stl_14 {
@@ -104,12 +104,12 @@
 	letter-spacing: -1.2221px;
 }
 @font-face {
-	font-family:"BELPHH+FontAwesome5Brands-Regular";
-	src:url("f7380166-0000-0000-0000-000000000000.woff") format("woff");
+	font-family:"DHRFAM+FontAwesome5Brands-Regular";
+	src:url("0f62e760-0000-0000-0000-000000000000.woff") format("woff");
 }
 .stl_16 {
 	font-size: 0.974483em;
-	font-family: "BELPHH+FontAwesome5Brands-Regular", "Times New Roman";
+	font-family: "DHRFAM+FontAwesome5Brands-Regular", "Times New Roman";
 	color: #000000;
 }
 .stl_17 {
@@ -117,7 +117,7 @@
 }
 .stl_18 {
 	font-size: 0.996267em;
-	font-family: "NBINMB+URWPalladioL-Bold", "Times New Roman";
+	font-family: "JEDMLI+URWPalladioL-Bold", "Times New Roman";
 	color: #000000;
 }
 .stl_19 {
@@ -129,7 +129,7 @@
 }
 .stl_20 {
 	font-size: 0.797008em;
-	font-family: "NBINMB+URWPalladioL-Bold", "Times New Roman";
+	font-family: "JEDMLI+URWPalladioL-Bold", "Times New Roman";
 	color: #000000;
 }
 .stl_21 {
@@ -147,12 +147,12 @@
 	letter-spacing: -0.3826px;
 }
 @font-face {
-	font-family:"RDUOOW+LMMathSymbols6-Regular";
-	src:url("566459d3-0000-0000-0000-000000000000.woff") format("woff");
+	font-family:"WOUSPO+LMMathSymbols6-Regular";
+	src:url("02e64584-0000-0000-0000-000000000000.woff") format("woff");
 }
 .stl_23 {
 	font-size: 0.498133em;
-	font-family: "RDUOOW+LMMathSymbols6-Regular", "Times New Roman";
+	font-family: "WOUSPO+LMMathSymbols6-Regular", "Times New Roman";
 	color: #000000;
 }
 .stl_24 {
@@ -160,7 +160,7 @@
 }
 .stl_25 {
 	font-size: 0.909092em;
-	font-family: "NBINMB+URWPalladioL-Bold", "Times New Roman";
+	font-family: "JEDMLI+URWPalladioL-Bold", "Times New Roman";
 	color: #000000;
 }
 .stl_26 {
@@ -171,12 +171,12 @@
 	letter-spacing: -1.6145px;
 }
 @font-face {
-	font-family:"BERACA+URWPalladioL-Ital";
-	src:url("62c6d6d8-0000-0000-0000-000000000000.woff") format("woff");
+	font-family:"SWPUMI+URWPalladioL-Ital";
+	src:url("257e88e0-0000-0000-0000-000000000000.woff") format("woff");
 }
 .stl_27 {
 	font-size: 0.7472em;
-	font-family: "BERACA+URWPalladioL-Ital", "Times New Roman";
+	font-family: "SWPUMI+URWPalladioL-Ital", "Times New Roman";
 	color: #000000;
 }
 .stl_28 {
@@ -198,12 +198,12 @@
 }
 .stl_31 {
 	font-size: 0.7472em;
-	font-family: "NGCSTP+URWPalladioL-Roma", "Times New Roman";
+	font-family: "SENPGB+URWPalladioL-Roma", "Times New Roman";
 	color: #000000;
 }
 .stl_32 {
 	font-size: 0.909092em;
-	font-family: "NGCSTP+URWPalladioL-Roma", "Times New Roman";
+	font-family: "SENPGB+URWPalladioL-Roma", "Times New Roman";
 	color: #000000;
 }
 .stl_33 {
@@ -250,7 +250,7 @@
 }
 .stl_39 {
 	font-size: 0.909092em;
-	font-family: "NBINMB+URWPalladioL-Bold", "Times New Roman";
+	font-family: "JEDMLI+URWPalladioL-Bold", "Times New Roman";
 	color: #00008B;
 }
 .stl_40 {
@@ -268,210 +268,245 @@
 	letter-spacing: -0.011px;
 }
 .stl_42 {
-	font-size: 0.7472em;
-	font-family: "BELPHH+FontAwesome5Brands-Regular", "Times New Roman";
-	color: #00008B;
+	letter-spacing: -0.0026em;
+}
+
+.stl_ie .stl_42 {
+	letter-spacing: -0.0307px;
 }
 .stl_43 {
+	font-size: 0.7472em;
+	font-family: "DHRFAM+FontAwesome5Brands-Regular", "Times New Roman";
+	color: #00008B;
+}
+.stl_44 {
 	letter-spacing: -0.0001em;
 }
 
-.stl_ie .stl_43 {
+.stl_ie .stl_44 {
 	letter-spacing: -0.0006px;
 }
-.stl_44 {
+.stl_45 {
 	letter-spacing: -0.0018em;
 }
 
-.stl_ie .stl_44 {
+.stl_ie .stl_45 {
 	letter-spacing: -0.0264px;
 }
-.stl_45 {
+.stl_46 {
 	letter-spacing: -0.0005em;
 }
 
-.stl_ie .stl_45 {
+.stl_ie .stl_46 {
 	letter-spacing: -0.0069px;
 }
-.stl_46 {
+.stl_47 {
 	letter-spacing: -0.0007em;
 }
 
-.stl_ie .stl_46 {
+.stl_ie .stl_47 {
 	letter-spacing: -0.0083px;
 }
-.stl_47 {
-	letter-spacing: -0.0014em;
-}
-
-.stl_ie .stl_47 {
-	letter-spacing: -0.0207px;
-}
 .stl_48 {
-	letter-spacing: -0.0048em;
+	letter-spacing: 0.0001em;
 }
 
 .stl_ie .stl_48 {
-	letter-spacing: -0.0692px;
+	letter-spacing: 0.0007px;
 }
 .stl_49 {
-	letter-spacing: 0.0528em;
+	letter-spacing: -0.0014em;
 }
 
 .stl_ie .stl_49 {
-	letter-spacing: 0.6733px;
+	letter-spacing: -0.0207px;
 }
 .stl_50 {
-	letter-spacing: 0.0499em;
+	letter-spacing: -0.0048em;
 }
 
 .stl_ie .stl_50 {
-	letter-spacing: 0.7962px;
+	letter-spacing: -0.0692px;
 }
 .stl_51 {
-	font-size: 0.664175em;
-	font-family: "NGCSTP+URWPalladioL-Roma", "Times New Roman";
-	color: #00008B;
+	letter-spacing: 0.0528em;
+}
+
+.stl_ie .stl_51 {
+	letter-spacing: 0.6733px;
 }
 .stl_52 {
-	font-size: 0.531342em;
-	font-family: "NGCSTP+URWPalladioL-Roma", "Times New Roman";
-	color: #00008B;
+	letter-spacing: 0.0499em;
+}
+
+.stl_ie .stl_52 {
+	letter-spacing: 0.7962px;
 }
 .stl_53 {
+	font-size: 0.664175em;
+	font-family: "SENPGB+URWPalladioL-Roma", "Times New Roman";
+	color: #00008B;
+}
+.stl_54 {
+	font-size: 0.531342em;
+	font-family: "SENPGB+URWPalladioL-Roma", "Times New Roman";
+	color: #00008B;
+}
+.stl_55 {
 	letter-spacing: 0.0616em;
 }
 
-.stl_ie .stl_53 {
-	letter-spacing: 0.524px;
+.stl_ie .stl_55 {
+	letter-spacing: 0.5238px;
 }
-.stl_54 {
+.stl_56 {
 	letter-spacing: 0.0227em;
 }
 
-.stl_ie .stl_54 {
+.stl_ie .stl_56 {
 	letter-spacing: 0.2408px;
 }
-.stl_55 {
-	letter-spacing: 0.0305em;
+.stl_57 {
+	letter-spacing: 0.0306em;
 }
 
-.stl_ie .stl_55 {
+.stl_ie .stl_57 {
 	letter-spacing: 0.2597px;
-}
-.stl_56 {
-	font-size: 0.830217em;
-	font-family: "NBINMB+URWPalladioL-Bold", "Times New Roman";
-	color: #000000;
-}
-.stl_57 {
-	font-size: 0.830217em;
-	font-family: "NBINMB+URWPalladioL-Bold", "Times New Roman";
-	color: #00008B;
 }
 .stl_58 {
 	font-size: 0.830217em;
-	font-family: "BERACA+URWPalladioL-Ital", "Times New Roman";
+	font-family: "JEDMLI+URWPalladioL-Bold", "Times New Roman";
 	color: #000000;
 }
 .stl_59 {
-	letter-spacing: -0.0027em;
-}
-
-.stl_ie .stl_59 {
-	letter-spacing: -0.0364px;
-}
-@font-face {
-	font-family:"KRVLRS+LMMathSymbols7-Regular";
-	src:url("30aa9a4c-0000-0000-0000-000000000000.woff") format("woff");
+	font-size: 0.830217em;
+	font-family: "JEDMLI+URWPalladioL-Bold", "Times New Roman";
+	color: #00008B;
 }
 .stl_60 {
-	font-size: 0.69738em;
-	font-family: "KRVLRS+LMMathSymbols7-Regular", "Times New Roman";
+	font-size: 0.830217em;
+	font-family: "SWPUMI+URWPalladioL-Ital", "Times New Roman";
 	color: #000000;
 }
 .stl_61 {
-	line-height: 1.733em;
+	letter-spacing: -0.0027em;
+}
+
+.stl_ie .stl_61 {
+	letter-spacing: -0.0364px;
+}
+@font-face {
+	font-family:"OWMLLR+LMMathSymbols7-Regular";
+	src:url("0d2d361a-0000-0000-0000-000000000000.woff") format("woff");
 }
 .stl_62 {
+	font-size: 0.69738em;
+	font-family: "OWMLLR+LMMathSymbols7-Regular", "Times New Roman";
+	color: #000000;
+}
+.stl_63 {
+	line-height: 1.733em;
+}
+.stl_64 {
 	letter-spacing: 0.0717em;
 }
 
-.stl_ie .stl_62 {
+.stl_ie .stl_64 {
 	letter-spacing: 0.6671px;
 }
-.stl_63 {
+.stl_65 {
 	letter-spacing: -0.0213em;
 }
 
-.stl_ie .stl_63 {
+.stl_ie .stl_65 {
 	letter-spacing: -0.2834px;
 }
-.stl_64 {
-	letter-spacing: -0.0022em;
-}
-
-.stl_ie .stl_64 {
-	letter-spacing: -0.0299px;
-}
-.stl_65 {
-	letter-spacing: -0.129em;
-}
-
-.stl_ie .stl_65 {
-	letter-spacing: -1.7136px;
-}
 .stl_66 {
-	letter-spacing: -0.09em;
+	letter-spacing: -0.0057em;
 }
 
 .stl_ie .stl_66 {
-	letter-spacing: -1.1955px;
+	letter-spacing: -0.0756px;
 }
 .stl_67 {
-	letter-spacing: 0.1423em;
+	letter-spacing: -0.0023em;
 }
 
 .stl_ie .stl_67 {
-	letter-spacing: 1.8896px;
+	letter-spacing: -0.0299px;
 }
 .stl_68 {
-	letter-spacing: -0.0046em;
+	letter-spacing: 0.0719em;
 }
 
 .stl_ie .stl_68 {
-	letter-spacing: -0.0614px;
+	letter-spacing: 0.6684px;
 }
 .stl_69 {
-	letter-spacing: 0.047em;
+	letter-spacing: -0.0017em;
 }
 
 .stl_ie .stl_69 {
-	letter-spacing: 0.5994px;
+	letter-spacing: -0.0223px;
 }
 .stl_70 {
-	letter-spacing: -0.031em;
+	letter-spacing: -0.129em;
 }
 
 .stl_ie .stl_70 {
-	letter-spacing: -0.4949px;
+	letter-spacing: -1.7136px;
 }
 .stl_71 {
-	letter-spacing: 0.0395em;
+	letter-spacing: -0.09em;
 }
 
 .stl_ie .stl_71 {
-	letter-spacing: 0.5037px;
+	letter-spacing: -1.1955px;
 }
 .stl_72 {
-	letter-spacing: -0.0069em;
+	letter-spacing: 0.1423em;
 }
 
 .stl_ie .stl_72 {
-	letter-spacing: -0.0911px;
+	letter-spacing: 1.8896px;
 }
 .stl_73 {
+	letter-spacing: -0.0046em;
+}
+
+.stl_ie .stl_73 {
+	letter-spacing: -0.0614px;
+}
+.stl_74 {
+	letter-spacing: -0.0022em;
+}
+
+.stl_ie .stl_74 {
+	letter-spacing: -0.0298px;
+}
+.stl_75 {
+	letter-spacing: -0.031em;
+}
+
+.stl_ie .stl_75 {
+	letter-spacing: -0.4949px;
+}
+.stl_76 {
+	letter-spacing: 0.0395em;
+}
+
+.stl_ie .stl_76 {
+	letter-spacing: 0.5037px;
+}
+.stl_77 {
+	letter-spacing: -0.0069em;
+}
+
+.stl_ie .stl_77 {
+	letter-spacing: -0.0911px;
+}
+.stl_78 {
 	font-size: 0.7472em;
-	font-family: "VMEOIK+FontAwesome5Free-Solid", "Times New Roman";
+	font-family: "USUCDF+FontAwesome5Free-Solid", "Times New Roman";
 	color: #00008B;
 }
